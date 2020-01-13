@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "alihaghani.me/static/css/main.c334523e.chunk.css",
+    "main.js": "alihaghani.me/static/js/main.2512c0ac.chunk.js",
+    "main.js.map": "alihaghani.me/static/js/main.2512c0ac.chunk.js.map",
+    "runtime-main.js": "alihaghani.me/static/js/runtime-main.d8308206.js",
+    "runtime-main.js.map": "alihaghani.me/static/js/runtime-main.d8308206.js.map",
+    "static/js/2.3fa0edf1.chunk.js": "alihaghani.me/static/js/2.3fa0edf1.chunk.js",
+    "static/js/2.3fa0edf1.chunk.js.map": "alihaghani.me/static/js/2.3fa0edf1.chunk.js.map",
+    "index.html": "alihaghani.me/index.html",
+    "precache-manifest.7d8e8b2ee396019a687e8cf3201488aa.js": "alihaghani.me/precache-manifest.7d8e8b2ee396019a687e8cf3201488aa.js",
+    "service-worker.js": "alihaghani.me/service-worker.js",
+    "static/css/main.c334523e.chunk.css.map": "alihaghani.me/static/css/main.c334523e.chunk.css.map",
+    "static/js/2.3fa0edf1.chunk.js.LICENSE": "alihaghani.me/static/js/2.3fa0edf1.chunk.js.LICENSE",
+    "static/media/HereNowMap.png": "alihaghani.me/static/media/HereNowMap.83a9d376.png",
+    "static/media/LinkSoup.png": "alihaghani.me/static/media/LinkSoup.8c6b091c.png",
+    "static/media/MindTheGap_square.png": "alihaghani.me/static/media/MindTheGap_square.77a00a50.png",
+    "static/media/RocketCast.png": "alihaghani.me/static/media/RocketCast.41c78a0f.png",
+    "static/media/simple-line-icons.css": "alihaghani.me/static/media/Simple-Line-Icons.ff94ad94.woff",
+    "static/media/Tasks Nearby_square.png": "alihaghani.me/static/media/Tasks Nearby_square.b3cd5e1a.png",
+    "static/media/ViralPoll.png": "alihaghani.me/static/media/ViralPoll.9ea348e4.png",
+    "static/media/cryptowatch.png": "alihaghani.me/static/media/cryptowatch.0f492c36.png",
+    "static/media/font-awesome.css": "alihaghani.me/static/media/fontawesome-webfont.f7c2b4b7.eot",
+    "static/media/style.css": "alihaghani.me/static/media/preloader.8dda6a9a.gif",
+    "static/media/playlistify-green.png": "alihaghani.me/static/media/playlistify-green.d99e1e03.png",
+    "static/media/round.png": "alihaghani.me/static/media/round.119ee289.png",
+    "static/media/website_square.png": "alihaghani.me/static/media/website_square.f0bc618b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8308206.js",
+    "static/js/2.3fa0edf1.chunk.js",
+    "static/css/main.c334523e.chunk.css",
+    "static/js/main.2512c0ac.chunk.js"
+  ]
+}
