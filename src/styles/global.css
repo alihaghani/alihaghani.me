@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,800);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css);
+@import 'button.css';
+@import 'footer.css';
+@import 'font-awesome.css';
+@import 'header.css';
+@import 'home.css';
+@import 'links.css';
+@import 'simple-line-icons.css';
+@import 'projects.css';
+@import 'bubba-effects.css';
+
+.navbar a,
+.form-control {
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    -ms-transition: all 0.4s ease-in-out 0s;
+    -o-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.about-text {
+    font-family: Raleway, "Times New Roman", Times, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.pfblock {
+    padding: 120px 0 100px;
+}
+
+.pfblock-header {
+    text-align: center;
+    margin: 0 0 60px;
+}
+
+.pfblock-header-left {
+    text-align: left;
+}
+
+.pfblock-header-left .pfblock-line {
+    width: inherit;
+    margin: 30px 0;
+}
+
+.pfblock-line {
+    background: rgba(135, 135, 135, 0.5);
+    width: 100px;
+    height: 1px;
+    margin: 30px auto;
+}

@@ -1,0 +1,69 @@
+.pfblock-image {
+    padding: 0;
+}
+
+.pfblock-image,
+.pfblock-image h1,
+.pfblock-image h2,
+.pfblock-image h3,
+.pfblock-image h4,
+.pfblock-image h5,
+.pfblock-image h6 {
+    color: #fff;
+}
+
+.screen-height{
+    height: 100vh;
+}
+
+#home {
+    background: #222 url(../images/marshall_beach.png) no-repeat fixed 50% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+}
+
+.home-overlay {
+    background-color: rgba(44, 62, 80, 0.3);
+    background-image: url("../images/pattern.png");
+    background-repeat: repeat;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 0;
+}
+
+.pfblock-header-left .pfblock-line {
+    width: inherit;
+    margin: 30px 0;
+}
+
+.intro {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    text-align: center;
+    -webkit-transform: translate(0%, -50%);
+    -moz-transform: translate(0%, -50%);
+    -ms-transform: translate(0%, -50%);
+    -o-transform: translate(0%, -50%);
+    transform: translate(0%, -50%);
+    padding: 0 15px;
+}
+
+.intro h1{
+    font-weight: 800;
+}
+
+.start {
+    font-family: Raleway, "Times New Roman", Times, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    text-transform: none;
+    margin: 15px 0;
+}

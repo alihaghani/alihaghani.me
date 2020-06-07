@@ -53,7 +53,7 @@ const Links = ({ size = 100 }) => {
         </li>
 
         <li>
-          <a href="#contact" className="wow fadeInUp" data-wow-delay=".5s">
+          <a href="/contact" className="wow fadeInUp" data-wow-delay=".5s">
             <i className="fa fa-envelope"></i>
           </a>
         </li>

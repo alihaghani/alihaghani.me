@@ -9,10 +9,10 @@ const ProjectsSection = ({ title, description, projects }) => {
         <div className="row">
 
           <div className="col-sm-6 col-sm-offset-3">
-            <div className="pfblock-header wow fadeInUp">
+            <div className="pfblock-header">
               <h2 className="pfblock-title">{title}</h2>
               <div className="pfblock-line"></div>
-              <div className="pfblock-subtitle">
+              <div className="about-text">
                 {description}
               </div>
             </div>

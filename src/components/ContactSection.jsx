@@ -11,7 +11,7 @@ const ContactSection = ({ title, description, email }) => {
             <div className="pfblock-header">
               <h2 className="pfblock-title">{title}</h2>
               <div className="pfblock-line"></div>
-              <div className="pfblock-subtitle">
+              <div className="about-text">
                 {description}
               </div>
             </div>

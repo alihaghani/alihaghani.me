@@ -8,7 +8,7 @@ const ProjectBlock = ({
 }) => {
   return (
     <div className="col-xs-12 col-sm-4 col-md-4">
-      <div className="grid wow zoomIn">
+      <div className="grid">
         <a target="_blank" href={url}>
           <figure className="effect-bubba">
             <img src={imagePath} alt={name}/>

@@ -1,0 +1,22 @@
+#footer {
+    background: #222;
+    text-align: center;
+    padding: 40px 0;
+    color: #FFF;
+    margin-top: auto;
+    height: 200px;
+}
+
+.copyright {
+    margin: 0;
+}
+
+.copyright a{
+    border-bottom: 1px dotted #fff;
+}
+
+#footer span{
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    color: #ff5252;
+}

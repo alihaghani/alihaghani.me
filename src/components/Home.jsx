@@ -1,5 +1,5 @@
 import React from 'react';
-import Links from "./Links";
+import Links from './Links';
 
 const Home = ({ name, description }) => {
   return (
