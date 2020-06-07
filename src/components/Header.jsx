@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 
 const Header = ({ shouldRenderTitle }) => {
   const [isNavCollapsed, toggleNav] = useState(true);
-  const currentPath = window.location.pathname;
   const directory = [
     { name: 'Home', path: '/' },
     { name: 'Projects', path: '/projects' },
@@ -30,14 +29,12 @@ const Header = ({ shouldRenderTitle }) => {
 
           <div className={`${isNavCollapsed ? 'collapse' : ''} navbar-collapse`}>
             <ul className="nav navbar-nav navbar-right">
-              {directory.map(({ name, path }) => {
-                const isPathActive = path === currentPath;
-                return (
-                  <li className={isPathActive ? 'active' : ''}>
-                    <Link to={path}>{name}</Link>
+              {directory.map(({ name, path }) =>
+                (
+                  <li>
+                    <Link to={path} activeClassName="active">{name}</Link>
                   </li>
-                )
-              })}
+                ))}
             </ul>
           </div>
         </div>

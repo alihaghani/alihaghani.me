@@ -29,8 +29,8 @@
     color: #222;
 }
 
-.navbar-custom .nav li.active,
 .navbar-custom .nav li a:hover,
+.navbar-custom .nav a.active,
 .navbar-custom .nav li a:focus,
 .navbar-custom .navbar-nav > li.active a {
     background: none;
