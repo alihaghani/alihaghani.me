@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Links from './Links';
 
 const Home = ({ name, description }) => {
@@ -12,18 +13,8 @@ const Home = ({ name, description }) => {
 
         <div className="pfblock-line"></div>
 
-
         <Links size={250} />
       </div>
-
-      <a href="#about">
-        <div className="scroll-down">
-          <span>
-              <i className="fa fa-angle-down fa-2x"></i>
-          </span>
-        </div>
-      </a>
-
     </section>
   );
 };

@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa-twitter",
+    "link": "http://twitter.com/iAligator"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/alihaghani"
+  },
+  {
+    "icon": "fa-linkedin",
+    "link": "https://linkedin.com/in/alihaghani"
+  },
+  {
+    "icon": "fa-instagram",
+    "link": "https://instagram.com/iAligator"
+  },
+  {
+    "icon": "fa-youtube",
+    "link": "https://youtube.com/iAligator"
+  }
+]
