@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
+
 import links from '../content/links.json';
 
 const Links = ({ size = 100 }) =>
@@ -8,9 +10,9 @@ const Links = ({ size = 100 }) =>
       <ul className="social-links" style={{fontSize: `${size}%`}}>
         {links.map(({icon, link}) => (
           <li>
-            <a href={link} target="_blank" rel="noopener noreferrer">
+            <OutboundLink href={link} target="_blank" rel="noopener noreferrer">
               <i className={`fa ${icon}`}></i>
-            </a>
+            </OutboundLink>
           </li>
         ))}
       </ul>

@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { Link } from "gatsby"
+
+import { Link } from 'gatsby'
+import { OutboundLink } from "gatsby-plugin-google-analytics"
 
 const Header = ({ shouldRenderTitle }) => {
   const [isNavCollapsed, toggleNav] = useState(true);
@@ -24,7 +26,7 @@ const Header = ({ shouldRenderTitle }) => {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            {shouldRenderTitle && <a className="navbar-brand" href="/">Ali Haghani</a>}
+            {shouldRenderTitle && <OutboundLink className="navbar-brand" href="/">Ali Haghani</OutboundLink>}
           </div>
 
           <div className={`${isNavCollapsed ? 'collapse' : ''} navbar-collapse`}>

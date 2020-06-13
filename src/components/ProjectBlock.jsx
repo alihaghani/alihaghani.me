@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 const ProjectBlock = ({
   name,
   description,
@@ -9,7 +11,7 @@ const ProjectBlock = ({
   return (
     <div className="col-xs-12 col-sm-4 col-md-4">
       <div className="grid">
-        <a target="_blank" href={url}>
+        <OutboundLink target="_blank" href={url}>
           <figure className="effect-bubba">
             <img src={imagePath} alt={name}/>
             <figcaption>
@@ -17,7 +19,7 @@ const ProjectBlock = ({
               <p>{description}</p>
             </figcaption>
           </figure>
-        </a>
+        </OutboundLink>
       </div>
     </div>
   );
