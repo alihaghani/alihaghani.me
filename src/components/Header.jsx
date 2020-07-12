@@ -7,6 +7,7 @@ const Header = ({ shouldRenderTitle }) => {
   const [isNavCollapsed, toggleNav] = useState(true);
   const directory = [
     { name: 'Home', path: '/' },
+    { name: 'Blog', path: '/blog' },
     { name: 'Projects', path: '/projects' },
     { name: 'About', path: '/about' },
     { name: 'Contact', path: '/contact' },
