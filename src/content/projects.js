@@ -1,9 +1,15 @@
 export default [
   {
+    name: 'Entourage',
+    description: 'A mobile app for following your favourite artists on Twitter. Built with React Native using Twitter and Spotify APIs.',
+    url: 'https://apps.apple.com/us/app/entourage-follow-artists/id1504576202',
+    imagePath: require('../images/projects/entourage.png'),
+  },
+  {
     name: 'Playlistify',
     description: 'A web app that allows for the creation of Spotify/Apple Music playlists from concerts, DJ sets, and other mixes from 1001tracklists.com, setlist.fm, and livetracklist.com.',
     url: 'https://playlistify.app',
-    imagePath: require('../images/projects/playlistify-green.png'),
+    imagePath: require('../images/projects/playlistify.png'),
   },
   {
     name: 'CryptoWatch',
