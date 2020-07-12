@@ -35,7 +35,13 @@ const Header = ({ shouldRenderTitle }) => {
               {directory.map(({ name, path }) =>
                 (
                   <li>
-                    <Link to={path} activeClassName="active">{name}</Link>
+                    <Link
+                      activeClassName="active"
+                      partiallyActive={path !== '/'}
+                      to={path}
+                    >
+                      {name}
+                    </Link>
                   </li>
                 ))}
             </ul>
