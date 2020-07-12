@@ -10,11 +10,7 @@ const ProjectsPage = () =>
   (
     <Layout shouldRenderTitle shouldRenderFooter>
       <SEO title="Projects"/>
-      <ProjectsSection
-        title="Projects"
-        description="Some of the things I've worked on."
-        projects={projects}
-      />
+      <ProjectsSection projects={projects} />
     </Layout>
   )
 

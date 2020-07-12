@@ -5,21 +5,11 @@ import { OutboundLink } from "gatsby-plugin-google-analytics"
 import headshot from '../images/headshot.png';
 
 const About = () => (
-    <div style={{
-      marginTop: 50,
-      display: 'flex',
-      flexDirection: 'column',
-    }}>
+    <>
       <div style={{ textAlign: 'center' }}>
         <img src={headshot} alt="Ali Haghani" />
       </div>
-      <div
-        className="about-text"
-        style={{
-          maxWidth: '600px',
-          padding: '20px',
-          alignSelf: 'center',
-        }}>
+      <div className="about-text">
         <p>
           I'm a Business and Computer Science grad from the University of British Columbia.
           Currently a software engineer at Twitter in San Francisco. Prior to that, I interned at
@@ -36,7 +26,7 @@ const About = () => (
           my drone</OutboundLink>, or do some spirited driving/go on road trips. Get in touch below or on <OutboundLink target="_blank" rel="noopener noreferrer" href="https://twitter.com/iAligator">Twitter</OutboundLink>.
         </p>
       </div>
-    </div>
+    </>
 );
 
 export default About;

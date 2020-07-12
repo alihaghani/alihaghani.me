@@ -9,11 +9,9 @@ export default function BlogPost({ data }) {
   return (
     <Layout shouldRenderTitle shouldRenderFooter>
       <SEO title={post.frontmatter.title}/>
-      <div className="page-content">
-        <h1>{post.frontmatter.title}</h1>
-        <h5>{`${post.frontmatter.date} · ${post.timeToRead} min read`}</h5>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </div>
+      <h1>{post.frontmatter.title}</h1>
+      <h5>{`${post.frontmatter.date} · ${post.timeToRead} min read`}</h5>
+      <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
   )
 }

@@ -9,8 +9,6 @@ const ContactPage = () =>
     <Layout shouldRenderTitle shouldRenderFooter>
       <SEO title="Contact" />
       <ContactSection
-        title="Contact"
-        description="Say hello!"
         email="alihaghani96@gmail.com"
       />
     </Layout>
