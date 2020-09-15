@@ -93,4 +93,6 @@ const App = () => {
 Note that with iOS, you’ll need to test the push notifications on a real device as they do
 not currently work in the Simulator.
 
-That’s all! Tweet me [@iAligator](https://twitter.com/iAligator) if you found this helpful.
+That’s all! Hope this helped you build something.
+
+You can follow me on Twitter [@iAligator](https://twitter.com/iAligator).
