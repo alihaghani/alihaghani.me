@@ -8,7 +8,11 @@ export default function BlogPost({ data }) {
   const post = data.markdownRemark
   return (
     <Layout shouldRenderTitle shouldRenderFooter>
-      <SEO title={post.frontmatter.title}/>
+      <SEO
+        isBlogPost
+        postData={data}
+        title={post.frontmatter.title}
+      />
       <h1>{post.frontmatter.title}</h1>
       <h5>{`${post.frontmatter.date} · ${post.timeToRead} min read`}</h5>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -25,6 +29,7 @@ export const query = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
       }
+      excerpt
     }
   }
 `
