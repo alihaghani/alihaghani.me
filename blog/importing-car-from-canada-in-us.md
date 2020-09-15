@@ -65,4 +65,4 @@ Overall, importing the car was relatively simple and not as big of a burden as I
 it was definitely worth doing in order to keep a car I really liked, get the chance to do the drive from Vancouver
 to SF again, and to have a car immediately upon moving to a new city.
 
-Happy driving! If you have any questions, reach out on Twitter [@iAligator](https://twitter.com/iAligator) or otherwise.
+Happy driving! If you have any questions, reach out on Twitter [@iAligator](https://twitter.com/iAligator).
