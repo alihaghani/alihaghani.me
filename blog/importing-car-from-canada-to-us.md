@@ -34,7 +34,7 @@ As stated on [EPA's website](https://www.epa.gov/importing-vehicles-and-engines/
 of compliance is only necessary if your vehicle does not have an EPA vehicle emissions label. If you're unable to find the
 EPA sticker on your car (not common for cars manufactured outside of the US), you can reach out to the
 [manufacturer's US representative](https://www.epa.gov/importing-vehicles-and-engines/light-duty-vehicle-and-motorcycle-manufacturers-united-states)
-to get a letter of compliance. This is a straight-forward process for cars that are also sold in the US market. If applicable,
+to get a letter of compliance. This is a straightforward process for cars that are also sold in the US market. If applicable,
 the manufacturer may also help you transfer the car's warranty to the US.
 
 #### Crossing the border
