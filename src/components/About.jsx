@@ -17,7 +17,7 @@ const About = () => (
         </p>
         <p>
           On the side, I developed <OutboundLink target="_blank" rel="noopener noreferrer" href="http://playlistify.app">Playlistify</OutboundLink> which allows you
-          to create playlists from live sets, DJ mixes, and concerts (featured on <OutboundLink target="_blank" href="https://djmag.com/news/new-app-turns-dj-mixes-spotify-and-apple-music-playlists">DJMag</OutboundLink>, <OutboundLink target="_blank" href="https://www.youredm.com/2019/12/01/create-playlists-from-dj-sets/">YourEDM</OutboundLink>, <OutboundLink target="_blank" href="- https://www.edmtunes.com/2019/12/new-web-app-allows-you-to-make-spotify-and-apple-music-playlists-from-dj-sets/">EDMTunes</OutboundLink>, and more.)
+          to create playlists from live sets, DJ mixes, and concerts (featured on <OutboundLink target="_blank" href="https://djmag.com/news/new-app-turns-dj-mixes-spotify-and-apple-music-playlists">DJMag</OutboundLink>, <OutboundLink target="_blank" href="https://www.youredm.com/2019/12/01/create-playlists-from-dj-sets/">YourEDM</OutboundLink>, <OutboundLink target="_blank" href="https://www.edmtunes.com/2019/12/new-web-app-allows-you-to-make-spotify-and-apple-music-playlists-from-dj-sets/">EDMTunes</OutboundLink>, and more.)
           Since building Playlistify, I've also been involved with engineering at 1001Tracklists, helping
           build <OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.1001trackstats.com">1001Trackstats</OutboundLink> which is a music analytics platform for artists and labels.
         </p>
