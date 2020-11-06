@@ -58,7 +58,7 @@ function SEO({
         },
         {
           property: `og:type`,
-          content: isBlogPost ? `website` : `article`,
+          content: isBlogPost ? `article` : `website`,
         },
         {
           name: `twitter:card`,
