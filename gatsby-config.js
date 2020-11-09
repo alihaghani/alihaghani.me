@@ -3,6 +3,7 @@ module.exports = {
     title: `Ali Haghani`,
     description: `Enthusiast, software engineer, and entrepreneur. Currently at Twitter in San Francisco.`,
     author: `@iAligator`,
+    siteUrl: 'https://alihaghani.me',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

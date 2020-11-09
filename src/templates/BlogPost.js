@@ -10,6 +10,7 @@ export default function BlogPost({ data }) {
     <Layout shouldRenderTitle shouldRenderFooter>
       <SEO
         isBlogPost
+        image={post.frontmatter.featuredImage.childImageSharp.fixed.src}
         postData={data}
         title={post.frontmatter.title}
       />
@@ -28,6 +29,13 @@ export const query = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        featuredImage { 
+          childImageSharp {
+            fixed {
+              src
+            }
+          }
+        }
       }
       excerpt
     }

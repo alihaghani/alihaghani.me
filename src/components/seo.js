@@ -5,14 +5,16 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react"
-import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
+import defaultImage from '../images/marshall_beach.jpg'
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Helmet } from 'react-helmet'
+import { useStaticQuery, graphql } from 'gatsby'
 
 function SEO({
   description,
   isBlogPost,
+  image,
   lang,
   meta,
   postData,
@@ -26,6 +28,7 @@ function SEO({
             title
             description
             author
+            siteUrl
           }
         }
       }
@@ -35,6 +38,8 @@ function SEO({
   const metaDescription = (isBlogPost && postData.markdownRemark.excerpt)
     || description
     || site.siteMetadata.description
+
+  const imageUrl = image && site.siteMetadata.siteUrl + ( image || defaultImage );
 
   return (
     <Helmet
@@ -59,6 +64,10 @@ function SEO({
         {
           property: `og:type`,
           content: isBlogPost ? `article` : `website`,
+        },
+        {
+          property: `og:image`,
+          content: imageUrl
         },
         {
           name: `twitter:card`,
