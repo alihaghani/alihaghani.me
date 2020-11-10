@@ -21,7 +21,7 @@ const IndexPage = () => {
   )
   return (
     <Layout shouldRenderTitle={false}>
-      <SEO title="Home"/>
+      <SEO title="Home" description={site.siteMetadata.description} />
       <Home
         name={site.siteMetadata.title}
         description={site.siteMetadata.description}
