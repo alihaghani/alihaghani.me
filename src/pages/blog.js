@@ -12,14 +12,20 @@ const Blog = ({ data }) =>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div className="blog-post-preview" key={node.id}>
-          <Link to={node.fields.slug}>
-            <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
-            <h3>{node.frontmatter.title}</h3>
-          </Link>
-          <h5>
-            {`${node.frontmatter.date} · ${node.timeToRead} min read`}
-          </h5>
-          <p>{node.excerpt}</p>
+          <div className="blog-post-preview-column">
+            <Link to={node.fields.slug}>
+              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+            </Link>
+          </div>
+          <div className="blog-post-preview-column">
+            <Link to={node.fields.slug}>
+              <h3>{node.frontmatter.title}</h3>
+            </Link>
+            <h5>
+              {`${node.frontmatter.date} · ${node.timeToRead} min read`}
+            </h5>
+            <p>{node.excerpt}</p>
+          </div>
         </div>
       ))}
     </Layout>
@@ -40,7 +46,7 @@ export const query = graphql`
             date(formatString: "MMMM DD, YYYY")
             featuredImage {
               childImageSharp {
-                fluid(maxWidth: 800, maxHeight: 300) {
+                fluid(maxWidth: 500, maxHeight: 300) {
                 ...GatsbyImageSharpFluid
                 }
               }
