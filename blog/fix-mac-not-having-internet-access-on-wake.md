@@ -1,3 +1,4 @@
+---
 date: "2020-11-24"
 title: "Fix Mac not having internet access on wake"
 featuredImage: ./media/renew-dhcp-lease.png
