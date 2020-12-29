@@ -55,7 +55,7 @@ function SEO({
         },
         {
           property: `og:title`,
-          content: title,
+          content: title === 'Home' ? site.siteMetadata.title : title,
         },
         {
           property: `og:description`,
