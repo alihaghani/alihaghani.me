@@ -22,7 +22,7 @@ search. There are several logical answers to these questions, the Delica provide
 - Crystal Lite Roof (an option that [made the search way more difficult](https://www.instagram.com/p/COVrA1DMhcY/))
 - practical size: although it's decently roomy inside for camperizing, it still drives like a regular car/SUV and fits
   in most parking spaces
-- great value: you get a lot of car for the price and also get Japanese reliability
+- great value: you get Japanese reliability and a lot of car for the price
 
 Frankly, I learned most of the above _after_ I started my search for a Delica. The reality of it is that I saw a few
 Delicas while in Vancouver Island and thought they were damn cool cars. Having always been fascinated by JDM cars, I
@@ -31,9 +31,9 @@ learned along the way and only reinforced my decision.
 
 ### The Search
 
-The day after I returned from Vancouver Island, I went to Vancouver Velocity Cars which specializes in selling JDM
-vehicles. They had a few Delicas on their lot which I checked out alongside some Toyota Hiaces and Alphards. This
-provided a baseline understanding of Delicas and other similar JDM vehicles.
+The day after I returned from Vancouver Island, I went to Vancouver Velocity Cars which specializes in selling
+already-imported JDM vehicles. They had a few Delicas on their lot which I checked out alongside some Toyota Hiaces and
+Alphards. This provided a baseline understanding of Delicas and other similar JDM vehicles.
 
 | ![My first up-close Delica sightings.](./media/mitsubishi-delica-importing-from-japan/velocity-cars-delicas.jpg)  | ![Keys to the castles on wheels.](./media/mitsubishi-delica-importing-from-japan/velocity-cars-keys.jpg)  |
 |:---:|:---:|
@@ -66,11 +66,11 @@ further and take additional photos (as you can see below, auction photos can be 
 | ![Auction photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-3.JPG) | ![Auction photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-4.JPG)  |
 | ![Auction photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-5.JPG) | ![Auction photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-6.JPG)  |
 
-A few hours before the auction started, I would get better photos which would highlight the car's condition and defects.
-Using those and William's input, I would make the call on whether I would bid on the van and if so, what my maximum
-landed price would be. Based on my max landed price (which includes shipping, taxes, and other fees), William would
-calculate the maximum auction bid and someone would participate in the auction on my behalf. During this 2-month period,
-I bid on 10 or so vans. A lot of them went for much more than I expected which was pretty demoralizing.
+A few hours before the auction started, I would get the auction inspection photos which would highlight the car's
+condition and defects. Using those and William's input, I would make the call on whether I would bid on the van and if
+so, what my maximum landed price would be. Based on my max landed price (which includes shipping, taxes, and other fees)
+, William would calculate the maximum auction bid and someone would participate in the auction on my behalf. During this
+2-month period, I bid on 10 or so vans. A lot of them went for much more than I expected which was pretty demoralizing.
 
 | ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-1.JPG) | ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-2.JPG)  |
 |:---:|:---:|
@@ -80,15 +80,16 @@ Late February, this van came up on auction which checked all the boxes for me. T
 great (above are a few) and given its condition and spec, I set a max bid that was relatively higher than previous ones.
 
 *...I won!!!* And for a few grand less than what my max was set to as well which was a nice bonus. The search was
-finally over. I arranged for payment, and the next chapter began: getting the van to Vancouver.
+finally over. I arranged for payment, and the next step of the process began: getting the van to Vancouver.
 
 ### Leaving Japan
 
 Other than patience, this part didn't require much from me. I had the option of sending the van to a yard in Japan for
-30,000 JPY to get the ladder that it had inside installed. There was a chance the ladder would be removed as there's a
-no-cargo policy when shipping vehicles if it wasn't installed (which turned out to be the case). Not having a dire need
-for a ladder (other than looks), I opted to have the van sent directly to the port at no extra charge. Customs clearance
-at the port in Japan and arranging for shipping took a few weeks. The van was aboard the New Nada by the end of March.
+30,000 JPY to get the ladder that it had inside installed. There was a chance the ladder would be removed due to the no
+cargo policy if it wasn't installed (which turned out to be the case). Not having a dire need for a ladder (other than
+looks), I opted to have the van sent directly to the port at no extra charge. Customs clearance at the port in Japan and
+arranging for shipping took a few weeks. The van was [aboard the New Nada](https://www.instagram.com/p/CNGTrW5sOsF/) 
+by the end of March.
 
 ![Sitting at the port in Japan.](./media/mitsubishi-delica-importing-from-japan/delica-japan-port.JPG)
 
