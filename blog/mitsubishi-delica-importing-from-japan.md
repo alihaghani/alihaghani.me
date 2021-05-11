@@ -72,7 +72,7 @@ so, what my maximum landed price would be. Based on my max landed price (which i
 , William would calculate the maximum auction bid and someone would participate in the auction on my behalf. During this
 2-month period, I bid on 10 or so vans. A lot of them went for much more than I expected which was pretty demoralizing.
 
-| ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-1.JPG) | ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-2.JPG)  |
+| ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-1.jpg) | ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-2.jpg)  |
 |:---:|:---:|
 | ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-3.JPG) | ![Auction inspection photo](./media/mitsubishi-delica-importing-from-japan/delica-auction-inspection-4.JPG)  |
 
