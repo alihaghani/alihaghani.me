@@ -27,9 +27,9 @@ search. There are several logical answers to these questions, the Delica provide
 - great value: you get Japanese reliability and a lot of car for the price
 
 Frankly, I learned most of the above _after_ I started my search for a Delica. The reality of it is that I saw a few
-Delicas while in Vancouver Island and thought they were damn cool cars. Having always been fascinated by JDM cars, I
-returned home from that trip having decided that I want a Mitsubishi Delica. And that's how my hunt began. The rest I
-learned along the way and only reinforced my decision.
+Delicas while in Vancouver Island and thought they were damn cool cars. Having always been fascinated by JDM 
+(Japanese Domestic Market) cars, I returned home from that trip having decided that I want a Mitsubishi Delica. And
+that's how my hunt began. The rest I learned along the way and only reinforced my decision.
 
 #### The Search
 
@@ -71,7 +71,7 @@ with the following:
 - no frame rust
 
 Although auction reports in Japan are usually pretty detailed, they don't always tell the full story. Also, I can't read
-Japanese. If a van came up that seemed to meet my crtieria, I would send it over to William who would then send me the
+Japanese. If a van came up that seemed to meet my criteria, I would send it over to William who would then send me the
 translated auction report. If the report checked out, we would then arrange for someone in Japan to go check it out
 further and take additional photos (as you can see below, auction photos can be pretty low resolution).
 
