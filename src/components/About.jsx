@@ -25,7 +25,7 @@ const About = () => (
         <p>
           When not writing code, I try to get some tennis matches in, go on hikes, snowboard, skate around town, experience live music, <OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=59IGGEt1NJ4">fly
           my drone</OutboundLink>, or do some spirited driving/go on road trips. In 2021, I
-          <OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=PLH9VwmjX_n5uxCDKnVkDwiPaUqVnxqepu">built my own campervan</OutboundLink>
+           <OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=PLH9VwmjX_n5uxCDKnVkDwiPaUqVnxqepu">built my own campervan</OutboundLink>
           after importing it from Japan.
         </p>
         <p>
