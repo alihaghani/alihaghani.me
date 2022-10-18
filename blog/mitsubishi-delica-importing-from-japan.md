@@ -4,6 +4,8 @@ title: "Mitsubishi Delica: My journey of importing a van from Japan"
 featuredImage: ./media/mitsubishi-delica-importing-from-japan/delica-alouette.jpg
 ---
 
+`video: https://www.youtube.com/watch?v=WZ-5X22PzhU`
+
 In this post I'll be going over my journey of deciding on, searching for, buying, and importing my 2005 Mitsubishi
 Delica Space Gear from Japan to Canada. The whole process took about six months: my search for a Delica began in October
 2020,
@@ -20,7 +22,7 @@ months after that on April 21, 2021.
 Why not an RV? Or a Westfalia? Or something local and left-hand drive? I got these questions a lot when I first began my
 search. There are several logical answers to these questions, the Delica provides:
 
-- off-road capability with high ground clearance, 4x4, locking diffs
+- off-road capability with high ground clearance, 4x4, locking diff
 - Crystal Lite Roof (an option that [made the search way more difficult](https://www.instagram.com/p/COVrA1DMhcY/))
 - practical size: although it's decently roomy inside for camperizing, it still drives like a regular car/SUV and fits
   in most parking spaces
