@@ -48,3 +48,6 @@ Depending on where you live, the availability of these coveted aluminum extrusio
 when doing this build and managed to find a local supplier that was about an hour drive away. Most suppliers will cut
 the ordered pieces to length (sometimes for a small fee). Do some calling around in your area and compare availability
 and pricing with online options such as [8020.net](https://8020.net/) and Amazon.
+
+Follow the journeys of the van on Instagram [@20gear](https://instagram.com/20gear) and reach me on
+Twitter [@iAligator](https://twitter.com/iAligator).
