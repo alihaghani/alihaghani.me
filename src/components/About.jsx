@@ -11,6 +11,8 @@ const About = () => (
         <img src={headshot} alt="Ali Haghani" style={{
           borderRadius: '50%',
           overflow: 'hidden',
+          margin: '50px',
+          width: '250px',
         }} />
       </div>
       <div className="about-text">
