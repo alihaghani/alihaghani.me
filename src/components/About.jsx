@@ -17,7 +17,7 @@ const About = () => (
       </div>
       <div className="about-text">
         <p>
-          Hey! My name is Ali. I'm currently building <OutboundLink target="_blank" rel="noopener noreferrer" href="http://circleback.ai">Circleback</OutboundLink>. Before that, I was a software engineer at Stripe where the last thing I worked on was leading the implementation of large language models into Stripe's support products.
+          Hey! My name is Ali. I'm currently building <OutboundLink target="_blank" rel="noopener noreferrer" href="https://circleback.ai">Circleback</OutboundLink>. Before that, I was a software engineer at Stripe where the last thing I worked on was leading the implementation of large language models into Stripe's support products.
           Prior, I worked on ads, analytics, and experimentation at Twitter. I spent my undergrad studying Business and Computer Science
           at the University of British Columbia, during which I did internships at RBC, GE Digital, and Twitter.
         </p>
