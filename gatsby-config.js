@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Ali Haghani`,
-    description: `Enthusiast, software engineer, and entrepreneur.`,
+    description: `Enthusiast, entrepreneur, and software engineer. Currently building Circleback.`,
     author: `@iAligator`,
     siteUrl: 'https://alihaghani.me',
   },

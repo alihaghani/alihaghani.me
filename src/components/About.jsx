@@ -8,12 +8,15 @@ import headshot from '../images/headshot.png';
 const About = () => (
     <>
       <div style={{ textAlign: 'center' }}>
-        <img src={headshot} alt="Ali Haghani" />
+        <img src={headshot} alt="Ali Haghani" style={{
+          borderRadius: '50%',
+          overflow: 'hidden',
+        }} />
       </div>
       <div className="about-text">
         <p>
-          Hello! As you have likely discerned, my name is Ali. I'm currently a software engineer at Stripe. Before that,
-          I worked on ads, analytics, and experimentation at Twitter. I spent my undergrad studying Business and Computer Science
+          Hey! My name is Ali. I'm currently building <OutboundLink target="_blank" rel="noopener noreferrer" href="http://circleback.ai">Circleback</OutboundLink>. Before that, I was a software engineer at Stripe where the last thing I worked on was leading the implementation of large language models into Stripe's support products.
+          Prior, I worked on ads, analytics, and experimentation at Twitter. I spent my undergrad studying Business and Computer Science
           at the University of British Columbia, during which I did internships at RBC, GE Digital, and Twitter.
         </p>
         <p>
@@ -23,7 +26,7 @@ const About = () => (
           {' '}<OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.songstats.com">Songstats</OutboundLink> which is a music analytics platform for artists and labels.
         </p>
         <p>
-          When not writing code, I try to get some tennis matches in, go on hikes, snowboard, skate around town, experience live music, <OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=59IGGEt1NJ4">fly
+          When not building, I try to get some tennis matches in, snowboard, (e)skate or bike around town, experience live music, <OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=59IGGEt1NJ4">fly
           my drone</OutboundLink>, or do some spirited driving/go on road trips. In 2021, I
           {' '}<OutboundLink target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=PLH9VwmjX_n5uxCDKnVkDwiPaUqVnxqepu">built a campervan</OutboundLink>
           {' '}after importing it from Japan.
